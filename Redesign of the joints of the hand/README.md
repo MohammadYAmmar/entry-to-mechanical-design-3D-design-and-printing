@@ -2,7 +2,7 @@
 
 Redesigning the arm is one of the tasks when I train at the Smart Methods Company
 
-In this task I was my second mechanical design experiment, After that I liked Meshmixer
+In this task I was my second mechanical design experiment, Meshmixer and blender have been used
 
 On first experience I took a r_forearm_visual and bust_motors_visual files to learn from
 https://github.com/poppy-project/poppy-humanoid/blob/master/hardware/URDF/meshes
