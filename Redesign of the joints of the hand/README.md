@@ -1,4 +1,5 @@
-# Introduction to mechanical design
+# Redesign of the joints of the hand
+
 Redesigning the arm is one of the tasks when I train at the Smart Methods Company
 
 In this task I was my second mechanical design experiment, After that I liked Meshmixer
