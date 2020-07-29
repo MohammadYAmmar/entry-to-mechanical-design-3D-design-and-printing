@@ -15,7 +15,7 @@ Thus I practiced more by conducting cutting and wider programs</div>
 
 #### <p align="center"> [Redesign of the joints of the hand](https://github.com/MohammadYAmmar/entry-to-mechanical-design-3D-design-and-printing/tree/master/Redesign%20of%20the%20joints%20of%20the%20hand)
 </p>
-![alt text](https://github.com/MohammadYAmmar/entry-to-mechanical-design-3D-design-and-printing/blob/master/Redesign%20of%20the%20joints%20of%20the%20hand/GIF%20The%20presentation%20in%20Blender%20and%20the%20need%20for%20him%20to%20save%20in%20one%20file.gif "joints")
+![alt text])https://github.com/MohammadYAmmar/entry-to-mechanical-design-3D-design-and-printing/blob/master/Redesign%20of%20the%20joints%20of%20the%20hand/GIF%20The%20presentation%20in%20Blender%20and%20the%20need%20for%20him%20to%20save%20in%20one%20file.gif "joints")
 
 
 ## <div>From then on we learned hand sketching with a task hand sketching robot distributing brochures</div>
