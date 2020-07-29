@@ -5,6 +5,7 @@ In this place my first attempts in this field, which is mechanical design, durin
 
 #### <p align="center"> [Redesign of the arm and adjustment of the poppy robot](https://github.com/MohammadYAmmar/entry-to-mechanical-design-3D-design-and-printing/tree/master/Redesign%20of%20the%20arm%20and%20adjustment%20of%20the%20poppy%20robot)
 </p>
+
 ![alt text](https://github.com/MohammadYAmmar/entry-to-mechanical-design-3D-design-and-printing/blob/master/Redesign%20of%20the%20arm%20and%20adjustment%20of%20the%20poppy%20robot/Gif%203D%20view%20of%20the%20structure.gif "arm and adjustment")
 
 
