@@ -15,6 +15,7 @@ Thus I practiced more by conducting cutting and wider programs</div>
 
 #### <p align="center"> [Redesign of the joints of the hand](https://github.com/MohammadYAmmar/entry-to-mechanical-design-3D-design-and-printing/tree/master/Redesign%20of%20the%20joints%20of%20the%20hand)
 </p>
+
 ![alt text](https://github.com/MohammadYAmmar/entry-to-mechanical-design-3D-design-and-printing/blob/master/Redesign%20of%20the%20joints%20of%20the%20hand/GIF%20The%20presentation%20in%20Blender%20and%20the%20need%20for%20him%20to%20save%20in%20one%20file.gif "joints")
 
 
@@ -22,6 +23,7 @@ Thus I practiced more by conducting cutting and wider programs</div>
 
 #### <p align="center"> [hand sketching robot distributing brochures](https://github.com/MohammadYAmmar/entry-to-mechanical-design-3D-design-and-printing/tree/master/hand%20sketching%20robot%20distributing%20brochures)
 </p>
+
 ![alt text](https://github.com/MohammadYAmmar/entry-to-mechanical-design-3D-design-and-printing/blob/master/hand%20sketching%20robot%20distributing%20brochures/Draw%20brochures%20distributing%20the%20robot%20in%20two%20ways.png "brochures")
 
 
